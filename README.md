@@ -1,4 +1,4 @@
-# SQL-Tableau-TaiwanRealEstateTransaction
+# SQL-Tableau-TaipeiRealEstateTransaction2020
 
 #### This project is aimed to identify trends, patterns and insights in the local real estate market during the first year of covid-19 outbreak. 
 
