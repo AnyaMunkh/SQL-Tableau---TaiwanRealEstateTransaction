@@ -6,7 +6,7 @@
 ##### Transaction trend in real estate market in Taipei city was visualized on Tableau dashboard.
 
 Visit the project on my Tableau public account for more interactiveness. 
-
+https://public.tableau.com/app/profile/anya5733/viz/TaipeiRealEstateTransactions2020/FinalDashboard2
 
 For the original Database reference follow the link below.   
 https://www.kaggle.com/datasets/burgerwu/2020-real-estate-transaction-records-taipei-city
