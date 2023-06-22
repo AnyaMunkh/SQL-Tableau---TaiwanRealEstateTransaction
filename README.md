@@ -2,7 +2,8 @@
 
 #### This project is aimed to identify trends, patterns and insights in the local real estate market during the first year of covid-19 outbreak. 
 
-###### Key highlights of the project include:
+##### Key highlights of the project include:
+
 - Employed SQL to conduct a data manipulation process such as filling out incomplete data and transformation on data format.
 - 	Utilized various advanced calculation and aggregation techniques within Tableau to create visually impactful visualizations.
 
